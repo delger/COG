@@ -2,6 +2,24 @@
 tags: Meetings, Don, Josh, ObsidianCollaborate
 ---
 
+# Agenda: 2023-03-20
+
+1. Touch Base: How was your week?
+2. The Big Three
+	1. Live life in the best way possible: RAARR
+	2. Keep things organized: Obsidian
+	3. Work Together: COG
+3. Review updated RAARR: [[RAARR is Roles, Aspirations, Actions, Reflections, Rewards|updated RAARR]]
+4. Learning COG (The green loop)
+![[ObsidianCollaborator_System 1.png]]
+	2. Clone a GitHub repo
+		1. Get a [[Personal Access Token]]
+		2. Make a [[Clone]]
+
+
+
+-----------
+
 # Agenda: 2023-03-13
 
 1. Touch Base: How Was Your Week?
@@ -20,10 +38,10 @@ tags: Meetings, Don, Josh, ObsidianCollaborate
 	2. Facts: Lots of details
 	3. In my [[2023-03-12-Move files to and from GitHub|process document]], I'm capturing the details.  
 
-4. Review [[RAARR is Roles, Aspirations, Actions, Rewards, Reflection| Don's Summary of RAARR]]. 
+4. Review [[RAARR is Roles, Aspirations, Actions, Reflections, Rewards|Don's Summary]] of RAARR.
 
-5. Meeting Notes Process
-6. Next Steps. 
+6. Meeting Notes Process
+7. Next Steps. 
 
 
 
