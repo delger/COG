@@ -18,7 +18,8 @@ First, learn how to use Github by taking the following actions.
 
 ## Updates on RAARR
 
-see [updated RAARR doc](https://github.com/delger/COG/blob/main/RAARR%20is%20Roles%2C%20Aspirations%2C%20Actions%2C%20Reflections%2C%20Rewards.md)
+see [updated RAARR doc](https://github.com/delger/COG/blob/main/RAARR.pdf).      
+I added this for your entertainment--check it out! 
 
 ## Notes Embedded in Notes
 
