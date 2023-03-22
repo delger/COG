@@ -2,6 +2,35 @@
 tags: Meetings, Don, Josh, ObsidianCollaborate
 ---
 
+# Follow Ups: 2023-03-22
+
+Overview: Obsidian does not use standard markdown. Thus, GitHub  sometimes does not render files in a readable way. Thus, I'm rewriting some info from the 2023-03-20 meeting so that it is more usable. In addition, I've updated RARR and added info about embedding notes in notes. 
+
+## Learning COG
+
+First, learn how to use Github by taking the following actions. 
+
+1. Get a Personal Access Token from Github. 
+     See the document  Personal Access Token.md
+
+2. Make a clone of a GitHub; see the document Clone.md. 
+
+## Updates on RAARR
+
+see the file
+
+RAARR is Roles, Aspirations, Actions, Reflections, Rewards.md
+
+## Notes Embedded in Notes
+
+A note is embedded in another note by using      
+`![[File Name]]`
+
+This also works for linking to a heading as follows:     
+`![[File Name#Heading]]`
+
+For more details and examples, see [Obsidian's Documentation of Notes Embedded in Notes](https://help.obsidian.md/Linking+notes+and+files/Embedding+files)
+
 # Agenda: 2023-03-20
 
 1. Touch Base: How was your week?
