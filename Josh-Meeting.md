@@ -10,16 +10,15 @@ Overview: Obsidian does not use standard markdown. Thus, GitHub  sometimes does 
 
 First, learn how to use Github by taking the following actions. 
 
-1. Get a Personal Access Token from Github. 
-     See the document  Personal Access Token.md
+1. Get a Personal Access Token from Github.     
+     see [Personal Access Token.md](https://github.com/delger/COG/blob/main/Personal%20Access%20Token.md)
 
-2. Make a clone of a GitHub; see the document Clone.md. 
+2. Make a clone of a GitHub      
+     see [clone.md](https://github.com/delger/COG/blob/main/Clone.md)
 
 ## Updates on RAARR
 
-see the file
-
-RAARR is Roles, Aspirations, Actions, Reflections, Rewards.md
+see [updated RAARR doc](https://github.com/delger/COG/blob/main/RAARR%20is%20Roles%2C%20Aspirations%2C%20Actions%2C%20Reflections%2C%20Rewards.md)
 
 ## Notes Embedded in Notes
 
