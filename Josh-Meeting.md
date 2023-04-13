@@ -2,6 +2,29 @@
 tags: Meetings, Don, Josh, ObsidianCollaborate
 ---
 
+# Agenda: 2023-04-14?
+
+1. Touch Base. Get Josh's ideas for the agenda, ...  
+
+2. Review of Ongoing Work
+	1. Use Case (owner, shared folder, notes have permissions, share tasks, communicate via chat notes, synching with Obsidian Vault, Dashboards, ...)
+	2. Learning COG(clone, PAT)
+	3. Update of [[The RAARR Method|RAARR]]. See also the [[The-RAARR-Method.pdf|current pdf]] of the RAARR document. 
+
+3. Goal State for COG: Super easy to:
+	1. Collaborate as described by above use case.
+	2. Make pdf documents (for communication and for teaching)
+	3. Make website (for communication and for teaching)
+
+4. Learning COG (next steps)
+	1. [[Forking]] Elger's Repo, editing this, adding info and then submitting your changes back to me (this submission is called a "Pull request" because you are requesting that I pull the changes into my repo.  
+
+
+# Use Case: 2023-03-22
+Description: This is a use case that Josh presented at out meeting on 2023-03-20
+
+I want to send my my son an invitation to join me on the "sailboat project". He will accept and be able to download that portion of the vault I have designated as sharing. Each note has the following permissions (Read only, Edit). The sharer will be the administrator of the subvault (Who can join). We will be able to accept and receive tasks from each other as a "task note". We will also be able to communicate via "Chat note". COG will be able to show us a special note that filters these chats and task so that we may see them well. Syncing will be on demand with revision history. This will also have "Note Windows" so that dashboards may be easily created.
+
 # Follow Ups: 2023-03-22
 
 Overview: Obsidian does not use standard markdown. Thus, GitHub  sometimes does not render files in a readable way. Thus, I'm rewriting some info from the 2023-03-20 meeting so that it is more usable. In addition, I've updated RARR and added info about embedding notes in notes. 
@@ -38,7 +61,7 @@ For more details and examples, see [Obsidian's Documentation of Notes Embedded i
 	1. Live life in the best way possible: RAARR
 	2. Keep things organized: Obsidian
 	3. Work Together: COG
-3. Review updated RAARR: [[RAARR is Roles, Aspirations, Actions, Reflections, Rewards|updated RAARR]]
+3. Review updated RAARR: [[The RAARR Method|updated RAARR]]
 4. Learning COG (The green loop)
 ![[ObsidianCollaborator_System 1.png]]
 	2. Clone a GitHub repo
@@ -67,7 +90,7 @@ For more details and examples, see [Obsidian's Documentation of Notes Embedded i
 	2. Facts: Lots of details
 	3. In my [[2023-03-12-Move files to and from GitHub|process document]], I'm capturing the details.  
 
-4. Review [[RAARR is Roles, Aspirations, Actions, Reflections, Rewards|Don's Summary]] of RAARR.
+4. Review [[The RAARR Method|Don's Summary]] of RAARR.
 
 6. Meeting Notes Process
 7. Next Steps. 
