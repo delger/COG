@@ -1,8 +1,36 @@
 ---
 tags: Meetings, Don, Josh, ObsidianCollaborate
 ---
+# Agenda: 2023-04-21
 
-# Agenda: 2023-04-14?
+1. Touch Base. Get Josh's ideas for the agenda, ...  
+
+2. Aspirations
+	1. Super effective and easy collaboration
+	2. Super effective learning and teaching
+	3. Individuals and groups get the best possible outcomes and experiences. 
+
+3. Review of Josh's Ongoing Work
+	1. Tasks: Fork a repo, get onto computer, make changes, make a pull request. 
+
+5. Review of Don's Ongoing Work.
+	1. Goal State: Python packages that others can run without knowing much about python.
+	2. Thrusts:
+		1. COG
+		2. Pdf Builder
+		3. Task Builder
+		4. Theory (Solid Foundations)
+	3. Progress: Theory way better. Testing way better. Gui way better. Complexity way down. 
+
+![[tasks.png|300]]
+
+6. Next Steps
+	1. Don: Package working on my machine; video of this ... 
+		1. Package: Standalone set of computer programs and other files that can installed on other computers. 
+	2. Josh: 
+
+
+# Agenda: 2023-04-14
 
 1. Touch Base. Get Josh's ideas for the agenda, ...  
 

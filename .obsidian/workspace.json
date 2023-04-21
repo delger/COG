@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Forking.md",
+                "file": "Josh-Meeting.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Forking.md",
+                "file": "Josh-Meeting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Forking.md",
+                "file": "Josh-Meeting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Forking.md"
+                "file": "Josh-Meeting.md"
               }
             }
           }
@@ -148,8 +148,13 @@
   },
   "active": "9e5a17bff77d4693",
   "lastOpenFiles": [
+    "Forking.md",
     "Josh-Meeting.md",
-    "The-RAARR-Method.pdf.md",
-    "The RAARR Method.md"
+    "The-RAARR-Method.pdf",
+    "fork-button.png",
+    "pull-request.png",
+    "joshs-hydra.png",
+    "The RAARR Method.md",
+    "The-RAARR-Method.pdf.md"
   ]
 }
